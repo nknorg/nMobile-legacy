@@ -6,22 +6,22 @@
 
 ## Key features of nMobile
 
-- NKN Wallet
--- supports both Mainnet and ERC-20
--- create/import/export wallet
--- send/receive NKN
-- D-Chat Mobile
--- supports both group chat and private one-on-one chat (compatible with web browser plug-in based D-Chat)
--- supports images, animated gif, and HTML/MarkDown
--- Permissioned private groups (group admin, add/remove user, mute)
-- News
--- Latest NKN news
-- IoT monitoring and control
--- nStatus to monitor mining nodes via IP address
--- nShell to remotely control server machines (coming soon)
--- nCamera to remotely monitor and control smart webcam (coming soon)
-- General
--- supports both English and Chinese language
+* NKN Wallet
+  * supports both Mainnet and ERC-20
+  * create/import/export wallet
+  * send/receive NKN
+* D-Chat Mobile
+  * supports both group chat and private one-on-one chat (compatible with web browser plug-in based D-Chat)
+  * supports images, animated gif, and HTML/MarkDown
+  * Permissioned private groups (group admin, add/remove user, mute)
+* News
+  * Latest NKN news
+* IoT monitoring and control
+  * nStatus to monitor mining nodes via IP address
+  * nShell to remotely control server machines (coming soon)
+  * nCamera to remotely monitor and control smart webcam (coming soon)
+* General
+  * supports both English and Chinese language
 
 The first pre-beta version is on Android and for community testing purpose only. We expect to iron out the bugs, harden the security, and improve the features according to community feedback in the next few months. Therefore we highly appreciate you deposit a few NKN to experience all the cool functionalities built on top of NKN network, but please do NOT use the current pre-beta version of NMobile for large amount of NKN holdings. Thank you!
 
