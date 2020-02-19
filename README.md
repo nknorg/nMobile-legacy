@@ -1,14 +1,32 @@
 # nMobile
-NKN mobile App which include wallet, news, d-chat and IOT devices communication functions
+
+**nMobile** is a mobile app that combines the functionality of NKN wallet, D-Chat, latest NKN news, mining node monitoring, as well as IoT communication and remote servere control.
 
 ![nMobile by NKN](https://github.com/nknorg/nMobile/blob/master/nmobile%20collage.jpeg)
 
+## Key features of nMobile
+
+- NKN Wallet
+-- supports both Mainnet and ERC-20
+-- create/import/export wallet
+-- send/receive NKN
+- D-Chat Mobile
+-- supports both group chat and private one-on-one chat (compatible with web browser plug-in based D-Chat)
+-- supports images, animated gif, and HTML/MarkDown
+-- Permissioned private groups (group admin, add/remove user, mute)
+- News
+-- Latest NKN news
+- IoT monitoring and control
+-- nStatus to monitor mining nodes via IP address
+-- nShell to remotely control server machines (coming soon)
+-- nCamera to remotely monitor and control smart webcam (coming soon)
+- General
+-- supports both English and Chinese language
+
 The first pre-beta version is on Android and for community testing purpose only. We expect to iron out the bugs, harden the security, and improve the features according to community feedback in the next few months. Therefore we highly appreciate you deposit a few NKN to experience all the cool functionalities built on top of NKN network, but please do NOT use the current pre-beta version of NMobile for large amount of NKN holdings. Thank you!
 
-More detail：
+## More detail：
 https://forum.nkn.org/t/nmobile-pre-beta-community-testing-and-simple-guide/2012
-
-
 
 
 # nMobile社区测试体验版本
